@@ -29,3 +29,10 @@
 ![photo1706266591(3)](https://github.com/DH-HEART048/twrp_tecno_pova-neo-2/assets/137413988/ab79dc09-cc26-4b11-9447-8b23d5215e46)
 ![photo1706266591(4)](https://github.com/DH-HEART048/twrp_tecno_pova-neo-2/assets/137413988/ba22cda0-bb25-492b-a18c-3ecca7e64547)
 ![photo1706266591(5)](https://github.com/DH-HEART048/twrp_tecno_pova-neo-2/assets/137413988/1ea29327-c8ad-4294-a043-c95d4e6ea31c)
+
+#### flashing
+
+```bash
+fastboot
+fastboot flash boot twrp.img
+```
