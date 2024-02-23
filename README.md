@@ -14,7 +14,8 @@
 - Mtp works
 - Flashing .img/zip
 - External Storage (SD and OTG)
-- Flashing magisk works 
+- Flashing magisk works
+- Decrypted
 
 #### Notes
 - prebuild kernel
